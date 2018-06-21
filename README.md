@@ -17,11 +17,12 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 
 ## Events
 
-- Currently we are planning a summertime Proof of Hardware summit in Shenzhen. Stay tuned here for more details.
+- Currently we are planning a summertime Proof of Hardware summit in Shenzhen.
+- Stay tuned here for more details.
 
 
 ## Contact
 
-- contact@proofofhardware.com
-- Telegram: https://t.me/proofofhardware
-- Twitter: twitter.com/proofofhardware (new and for public announcements, etc)
+- <a href="mailto:contact@proofofhardware.com">contact@proofofhardware.com</a>
+- Telegram: [https://t.me/proofofhardware](https://t.me/proofofhardware)
+- Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
