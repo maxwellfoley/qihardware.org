@@ -8,6 +8,7 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 ## HOWTOs
 
 - [Make a Bitcoin Fullnode](/howto/make-bitcoin-fullnode)
+- [Make a Ethereum Fullnode](/howto/make-ethereum-fullnode)
 - [Make an Ethereum Miner](/howto/make-ethereum-miner)
 
 ## Surveys
@@ -22,5 +23,5 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 ## Contact
 
 - contact@proofofhardware.com
-- Telegram: Insert
-- Twitter: Insert
+- Telegram: https://t.me/proofofhardware
+- Twitter: twitter.com/proofofhardware (new and for public announcements, etc)
