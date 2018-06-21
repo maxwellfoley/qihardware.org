@@ -7,12 +7,12 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 
 ## HOWTOs
 
-- (Make a Bitcoin Fullnode)[/howto/make-bitcoin-fullnode]
-- (Make an Ethereum Miner)[/howto/make-ethereum-miner]
+- [Make a Bitcoin Fullnode](/howto/make-bitcoin-fullnode)
+- [Make an Ethereum Miner](/howto/make-ethereum-miner)
 
 ## Surveys
 
-- (Wallets)[/survey/wallets]
+- [Wallets](/survey/wallets)
 
 ## Events
 
