@@ -23,6 +23,7 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 
 ## Contact
 
+- {{ site.email }}
 - <a href="mailto:contact@proofofhardware.com">contact@proofofhardware.com</a>
 - Telegram: [https://t.me/proofofhardware](https://t.me/proofofhardware)
 - Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
