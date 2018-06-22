@@ -5,42 +5,18 @@ __As of 2018-06-21__
 
 ## Hardware
 
-### Ledger
+- Open Source
+	- [Anelok](https://anelok.com)
+	- [TREZOR](https://trezor.io)
+	- [KeepKey](https://www.keepkey.com)
 
-#### Closed
-
-- List the closed parts.
-
-#### Open
-
-- List the open parts.
-
-### Anelok
-
-#### Closed
-
-- List the closed parts.
-
-#### Open
-
-- List the open parts.
+- Close Source
+	- [Ledger](https://www.ledgerwallet.com)
+	- [CoolWallet](https://coolwallet.io)
 
 ## Software
 
-### Toshi
-#### Closed
-
-- List the closed parts.
-
-#### Open
-
-- List the open parts.
-
-### Trust Wallet
-#### Closed
-
-- List the closed parts.
-
-#### Open
-
-- List the open parts.
+- Open Source
+	- [Toshi](https://www.toshi.org)
+	- [Trust Wallet](https://trustwalletapp.com)
+	- [Status](https://status.im)
