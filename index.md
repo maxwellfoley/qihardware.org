@@ -22,13 +22,22 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 - Currently we are planning a summertime Proof of Hardware summit in Shenzhen.
 - Stay tuned here for more details.
 
-
 ## Contact
 
 - <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 - Telegram: [https://t.me/proofofhardware](https://t.me/proofofhardware)
 - Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
 
+## Contributors
+
+- [Jon Phillips](http://rejon.org), @rejon
+- Add yourself :)
+
+## Sponsors
+
+- [POEX](https://poex.io)
+- [Proof of Existence](https://proofofexistence.com)
+- Contact to be a sponsor <a href="mailto:{{ site.email }}">{{ site.email }}</a>  :)
 
 [//]: <> (@rejon I don't know better way show page modified, so in vim:)
 [//]: <> (:r! date -u)
