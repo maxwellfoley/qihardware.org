@@ -1,7 +1,7 @@
 ---
-# page.date: Fri Jun 22 03:48:05 UTC 2018
+page.date: Fri Jun 22 03:48:05 UTC 2018
 ---
-# Make a Bitcoin Full Node 
+# Setup a Bitcoin Full Node 
 ### The definitive Guide
 
 While many people are concerned with mining Bitcoin, few are running Bitcoin fullnodes. A Bitcoin fullnode is an instance of `bitcoind` running with the
