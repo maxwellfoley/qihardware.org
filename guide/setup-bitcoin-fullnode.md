@@ -46,4 +46,6 @@ ___INSERT RECOMMENDATION___
 
 - https://bitcoin.it
 
-{% include footer_meta.md mod_date="Fri Jun 22 03:48:05 UTC 2018" %}
+[//]: <> (@rejon I don't know better way show page modified, so in vim:)
+[//]: <> (:r! date -u)
+{% include footer_meta.md mod_date="Fri Jun 22 06:02:47 UTC 2018" %}
