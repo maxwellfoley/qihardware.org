@@ -20,3 +20,7 @@ __As of 2018-06-21__
 	- [Toshi](https://www.toshi.org)
 	- [Trust Wallet](https://trustwalletapp.com)
 	- [Status](https://status.im)
+
+[//]: <> (@rejon I don't know better way show page modified, so in vim:)
+[//]: <> (:r! date -u)
+{% include footer_meta.md mod_date="Fri Jun 22 10:31:40 UTC 2018" %}
