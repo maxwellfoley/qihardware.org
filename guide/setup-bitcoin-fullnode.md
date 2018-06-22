@@ -41,8 +41,4 @@ ___INSERT RECOMMENDATION___
 
 ### Software
 
----
-
-Last edited: {{ page.date }}
-Last edited: {{ site.time }}
-Last modified: {{ page.last_modified_at }}
+{% include footer_meta.md %}
