@@ -1,6 +1,3 @@
----
-page.date: Fri Jun 22 03:48:05 UTC 2018
----
 # Setup a Bitcoin Full Node 
 ### The definitive Guide
 
@@ -49,4 +46,4 @@ ___INSERT RECOMMENDATION___
 
 - https://bitcoin.it
 
-{% include footer_meta.md %}
+{% include footer_meta.md mod_date="Fri Jun 22 03:48:05 UTC 2018" %}
