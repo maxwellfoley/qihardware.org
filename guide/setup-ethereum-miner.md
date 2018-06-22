@@ -1,6 +1,10 @@
 # Ethereum Mining Guide
 
-## Hardware Specs
+
+## BEST: Physical Hardware
+
+### Hardware 
+
 Type         | Detail
 ------------ | ----------------------------------
 CPU          | Dual /Quard Core processor 2.0GHz+
@@ -9,6 +13,11 @@ Disk         | 32G HDD
 Display Card | 8x MXM RX470/RX480 Graphics Cards with x1 PCI­E Gen 2
 Power supply | 1600W Power Supply
 
-## Software
+### Software
 
-http://centosquestions.com/quick-setup-claymore-ethereum-mining-ubuntu-amd-radeon-rx570/
+## External links
+
+- [Setup Ethereum Ubuntu AMD Radeon rx570 Miner](http://centosquestions.com/quick-setup-claymore-ethereum-mining-ubuntu-amd-radeon-rx570/)
+
+
+{% include footer_meta.md %}
