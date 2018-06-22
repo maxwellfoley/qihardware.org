@@ -30,4 +30,6 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 - Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
 
 
-{% include footer_meta.md %}
+[//]: <> (@rejon I don't know better way show page modified, so in vim:)
+[//]: <> (:r! date -u)
+{% include footer_meta.md mod_date="Fri Jun 22 06:02:47 UTC 2018" %}
