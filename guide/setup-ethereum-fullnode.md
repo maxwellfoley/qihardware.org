@@ -46,9 +46,6 @@ sudo apt-get install ethereum
 
 - [Build it from the scratch](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
 
-## Do you know more?
-
-- Please do help us add the latest knowledge to this guide.
 
 
 [//]: <> (@rejon I don't know better way show page modified, so in vim:)

@@ -2,9 +2,9 @@
 
 ## Mining on AWS
 
-### Hardware
+### Instance
 
-t2.xlarge or larger instance
+- Select t2.xlarge or larger instance
 
 ### Software & Guide
 - [Mining with an Ethereum Iceberg node on AWS](https://medium.com/madhavanmalolan/mining-with-an-ethereum-iceberg-node-on-aws-for-noobs-3ac52badf0c2)

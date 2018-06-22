@@ -94,11 +94,6 @@ is throughput on the drive.
 - [Setup Bcoin fullnode](http://bcoin.io/guides/vps-setup.html)
 
 
-## Do you know more?
-
-- Please do help us add the latest knowledge to this guide.
-
-
 
 
 
