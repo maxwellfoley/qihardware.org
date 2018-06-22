@@ -30,15 +30,15 @@ sudo apt-get update
 sudo apt-get install ethereum
 ```
 
-### MIDDLE: Docker
+### MEDIUM: Docker
 
 - [Setup fullnode docker image with Docker](https://github.com/ethereum/go-ethereum/wiki/Running-in-Docker#running-in-docker)
 
-### MIDDLE: Mini-computer (Raspberry Pi, etc)
+### MEDIUM: Mini-computer (Raspberry Pi, etc)
 
 - [Setup fullnode in Raspberry Pi / BEAGLEBONE BLACK / ODROID XU3/XU4 / WANDBOARD](http://ethembedded.com)
 
-### MIDDLE: AWS
+### MEDIUM: AWS
 
 - [Using the AWS Blockchain Template for Ethereum](https://docs.aws.amazon.com/blockchain-templates/latest/developerguide/blockchain-templates-ethereum.html)
 
