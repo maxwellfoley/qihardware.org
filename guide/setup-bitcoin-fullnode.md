@@ -36,9 +36,17 @@ ___INSERT RECOMMENDATION___
 
 ## COOL: Raspberry Pi
 
+___INSERT RECOMMENDATION___
 
 ### Hardware
+___INSERT RECOMMENDATION___
+
 
 ### Software
+___INSERT RECOMMENDATION___
+
+## External links
+
+- https://bitcoin.it
 
 {% include footer_meta.md %}

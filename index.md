@@ -1,5 +1,7 @@
 # Proof of Hardware
 
+![](/assets/poh-logo-256.png?raw=true)
+
 ### {{ site.description | default: site.github.project_tagline }}
 
 Bitcoin mining is currently too expensive for an individual to join. However, the field of blockchain software is still in its infancy. Without a question, hardware will be used to accelerate computation around blockchain developments and cryptocurrencies. We (that meaning and could include YOU) made this website to be a group editable resource to break thru the noise of the web, and paid reviews, or guides, to be an open community process for jumpstarting the world of Blockchain Hardware from the individual up. Please add your knowledge to these guides, and see you at a future event :)
@@ -27,7 +29,5 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 - Telegram: [https://t.me/proofofhardware](https://t.me/proofofhardware)
 - Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
 
-
-PM: {{ page.modified_time }}
 
 {% include footer_meta.md %}
