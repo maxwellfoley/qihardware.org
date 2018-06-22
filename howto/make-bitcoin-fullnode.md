@@ -44,3 +44,5 @@ ___INSERT RECOMMENDATION___
 ---
 
 Last edited: {{ page.date }}
+Last edited: {{ site.time }}
+Last modified: {{ page.last_modified_at }}

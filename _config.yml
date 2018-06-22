@@ -1,2 +1,5 @@
 email: contact@proofofhardware.com
 google_analytics: UA-121177785-1
+
+gems:
+      - jekyll-last-modified-at
