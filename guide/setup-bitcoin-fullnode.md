@@ -1,5 +1,5 @@
 # Setup a Bitcoin Full Node 
-### The definitive Guide
+### The Definitive Guide
 
 While many people are concerned with mining Bitcoin, few are running Bitcoin fullnodes. A Bitcoin fullnode is an instance of `bitcoind` running with the
 entire bitcoin blockchain. For the health and speed of the network, it is
@@ -49,10 +49,9 @@ hardware product.
 - [HOWTO Install Bitseed 3](https://github.com/bitseed-org/bitcoin-box)
 
 ### EASY: Bitnodes
-As of 2018-06-22, the main core software project for [bitnode is 
+- As of 2018-06-22, the main core software project for [bitnode is 
 DISCONTINUED](https://github.com/ayeowch/bitnodes-hardware)
-
-We do not recommend buying hardware or installing onto random hardware
+- We do not recommend buying hardware or installing onto random hardware
 as this project seems stalled.
 
 #### Install your own Bitnode on Linux
@@ -61,8 +60,15 @@ as this project seems stalled.
 curl https://bitnodes.earn.com/install-full-node.sh | sh
 ```
 
+### MEDIUM: Setup Bitcoind on your computer
+
+Make sure you have a dedicated 250G+ drive, preferably SSD, dedicated to bitcoin.
+
+- [Bitcoin.org Running a Full Node](https://bitcoin.org/en/full-node)
+
+
 ### MEDIUM: Setup fullnode docker image in Amazon ECS
-	- [Setup Bitcorn Core fullnode with Docker](https://github.com/ruimarinho/docker-bitcoin-core)
+- [Setup Bitcore Core fullnode with Docker](https://github.com/ruimarinho/docker-bitcoin-core)
 
 ### HARD: Setup fullnode in Raspberry Pi / PC
 
@@ -71,7 +77,9 @@ curl https://bitnodes.earn.com/install-full-node.sh | sh
 - [Setup Bcoin fullnode](http://bcoin.io/guides/vps-setup.html)
 
 
+## Do you know more?
 
+- Please do help us add the latest knowledge to this guide.
 
 
 
