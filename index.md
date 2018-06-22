@@ -27,4 +27,7 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 - Telegram: [https://t.me/proofofhardware](https://t.me/proofofhardware)
 - Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
 
+
+PM: page.modified_time
+
 {% include footer_meta.md %}
