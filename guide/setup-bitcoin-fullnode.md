@@ -85,6 +85,10 @@ Make sure you have a dedicated 250G+ drive, preferably SSD, dedicated to bitcoin
 
 ### HARD: Setup fullnode in Raspberry Pi / PC
 
+We recommend against the raspberry pi bitcoin fullnode, as we have tried many
+times. The raspberry pi is underpowered and without enough ram. The other issue,
+is throughput on the drive. 
+
 - [Setup Bitcoin Core fullnode](https://bitcoin.org/en/full-node)
 - [Setup Bitcore Node fullnode](https://bitcore.io/guides/full-node)
 - [Setup Bcoin fullnode](http://bcoin.io/guides/vps-setup.html)
@@ -100,4 +104,4 @@ Make sure you have a dedicated 250G+ drive, preferably SSD, dedicated to bitcoin
 
 [//]: <> (@rejon I don't know better way show page modified, so in vim:)
 [//]: <> (:r! date -u)
-{% include footer_meta.md mod_date="Fri Jun 22 08:04:43 UTC 2018" %}
+{% include footer_meta.md mod_date="Fri Jun 22 08:21:19 UTC 2018" %}
