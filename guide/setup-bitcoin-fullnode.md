@@ -14,37 +14,31 @@ The Bitcoin Fullnode is the BIBLE of BITCOIN that is continuously written :)
 
 This guide is meant to be best CURRENT practice in a few scenarios
 
-## BEST: Physical Hardware
+## Implement
+- [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+- [Bitcore Node](https://github.com/bitpay/bitcore-node)
+- [Bcoin](https://github.com/bcoin-org/bcoin)
 
-### Hardware
+## Hardware can be used as fullnode
+- Raspberry Pi
+- Bitnodes
+- PC
+- AWS
 
-Server       | Alias   | CPU         | RAM   | Disk
------------- | ------- | ----------- | ----- | -----------------------------------
-Bitcoind     | B       | 3.0 GHz x 2 | 4GiB  | 8GiB OS SSD + 500GiB Block data SSD
-Bitcore Node | A       | 3.0 GHz x 8 | 16GiB | 8GiB OS SSD + 600GiB Block data SSD
+## From beginner to expert
+- EASY: Buy Bitnodes, if you can't buy it you can also install the Bitnodes in Linux like this:
 
-### Software
+```bash
+curl https://bitnodes.earn.com/install-full-node.sh | sh
+```
 
-___INSERT SOFTWARE or DOCKER IMAGES needed for A and B___
+- MIDDLE: Setup fullnode docker image in Amazon ECS
+	- [Setup Bitcorn Core fullnode with Docker](https://github.com/ruimarinho/docker-bitcoin-core)
 
-## GOOD: Virtual Instances (AWS)
-
-___INSERT RECOMMENDATION___
-
-## COOL: Raspberry Pi
-
-___INSERT RECOMMENDATION___
-
-### Hardware
-___INSERT RECOMMENDATION___
-
-
-### Software
-___INSERT RECOMMENDATION___
-
-## External links
-
-- https://bitcoin.it
+- HARD: Setup fullnode in Raspberry Pi / PC
+	- [Setup Bitcoin Core fullnode](https://bitcoin.org/en/full-node)
+	- [Setup Bitcore Node fullnode](https://bitcore.io/guides/full-node)
+	- [Setup Bcoin fullnode](http://bcoin.io/guides/vps-setup.html)
 
 [//]: <> (@rejon I don't know better way show page modified, so in vim:)
 [//]: <> (:r! date -u)
