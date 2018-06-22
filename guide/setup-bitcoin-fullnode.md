@@ -14,32 +14,69 @@ The Bitcoin Fullnode is the BIBLE of BITCOIN that is continuously written :)
 
 This guide is meant to be best CURRENT practice in a few scenarios
 
-## Implement
+## Software Implementations
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [Bitcore Node](https://github.com/bitpay/bitcore-node)
 - [Bcoin](https://github.com/bcoin-org/bcoin)
 
-## Hardware can be used as fullnode
+## Hardware that can be used as fullnode
 - Raspberry Pi
-- Bitnodes
-- PC
-- AWS
+- Mini-computers (like Bitnodes or Bitseed)
+- Physical Computer / Standard PC
+- Virtual Server (AWS, linode, etc)
 
-## From beginner to expert
-- EASY: Buy Bitnodes, if you can't buy it you can also install the Bitnodes in Linux like this:
+## Biggest Issues
+
+- Currently as of 2018-06-22, Bitcoin Fullnode requires at least 250G hard drive.
+- Processor with enough power to handle both network throughput and transactions.
+- Power draw from the computer. Smaller mini computer like bitseed only 10W.
+- No really scaled manufacturer producing Bitcoin fullnodes.
+
+## From Beginner to Expert
+
+### EASY: Bitseed
+
+Bitseed is an active project and company selling bitcoin nodes as a
+hardware product.
+
+#### Buy a Bitseed
+
+- [Bitseed.org](https://bitseed.org)
+
+#### Install a Bitseed on a computer
+
+- [Open Source Code](https://github.com/bitseed-org/bitcoin-box)
+- [HOWTO Install Bitseed 3](https://github.com/bitseed-org/bitcoin-box)
+
+### EASY: Bitnodes
+As of 2018-06-22, the main core software project for [bitnode is 
+DISCONTINUED](https://github.com/ayeowch/bitnodes-hardware)
+
+We do not recommend buying hardware or installing onto random hardware
+as this project seems stalled.
+
+#### Install your own Bitnode on Linux
 
 ```bash
 curl https://bitnodes.earn.com/install-full-node.sh | sh
 ```
 
-- MIDDLE: Setup fullnode docker image in Amazon ECS
+### MEDIUM: Setup fullnode docker image in Amazon ECS
 	- [Setup Bitcorn Core fullnode with Docker](https://github.com/ruimarinho/docker-bitcoin-core)
 
-- HARD: Setup fullnode in Raspberry Pi / PC
-	- [Setup Bitcoin Core fullnode](https://bitcoin.org/en/full-node)
-	- [Setup Bitcore Node fullnode](https://bitcore.io/guides/full-node)
-	- [Setup Bcoin fullnode](http://bcoin.io/guides/vps-setup.html)
+### HARD: Setup fullnode in Raspberry Pi / PC
+
+- [Setup Bitcoin Core fullnode](https://bitcoin.org/en/full-node)
+- [Setup Bitcore Node fullnode](https://bitcore.io/guides/full-node)
+- [Setup Bcoin fullnode](http://bcoin.io/guides/vps-setup.html)
+
+
+
+
+
+
+
 
 [//]: <> (@rejon I don't know better way show page modified, so in vim:)
 [//]: <> (:r! date -u)
-{% include footer_meta.md mod_date="Fri Jun 22 06:02:47 UTC 2018" %}
+{% include footer_meta.md mod_date="Fri Jun 22 08:04:43 UTC 2018" %}
