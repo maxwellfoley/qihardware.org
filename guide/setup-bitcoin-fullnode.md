@@ -66,6 +66,19 @@ Make sure you have a dedicated 250G+ drive, preferably SSD, dedicated to bitcoin
 
 - [Bitcoin.org Running a Full Node](https://bitcoin.org/en/full-node)
 
+#### Example: Mac Mini
+
+- Current: Mac Mini i5 4G RAM + 512G Hardisk, RMB 2600 / $450 USD
+
+### MEDIUM
+
+- Buy cheap mini-computer
+- Make sure has 250-500G hard drive
+- Install [debian](https://debian.org)
+- Install bitcoind
+- Plug in ethernet network (make sure network uses DHCP)
+- BOOM! WORKS!
+
 
 ### MEDIUM: Setup fullnode docker image in Amazon ECS
 - [Setup Bitcore Core fullnode with Docker](https://github.com/ruimarinho/docker-bitcoin-core)
