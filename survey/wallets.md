@@ -14,6 +14,10 @@ __As of 2018-06-21__
 	- [Ledger](https://www.ledgerwallet.com)
 	- [CoolWallet](https://coolwallet.io)
 
+- Assessing if REAL
+    - [BITHD](https://bithd.com/wallet/)
+    - [BITHD Source Code](https://github.com/bithd)
+
 ## Software
 
 - Open Source
