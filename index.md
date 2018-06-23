@@ -32,6 +32,7 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 
 - [Jon Phillips](http://rejon.org), @rejon
 - [Qin Fengling](http://qinfengling.io), @qinfengling
+- [Clément Renaud](http://clementrenaud.com) @clemsos
 - Add yourself :)
 
 ## Sponsors
