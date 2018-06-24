@@ -1,3 +1,9 @@
+---
+date: 2018-06-24 03:00:55 +0000
+# Update page modified by changing the date.
+# In Vim use `:r! date -u +"%F %T %z"`
+---
+
 # Proof of Hardware
 
 ![](/assets/poh-logo-256.png?raw=true)
@@ -42,6 +48,4 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 - [Proof of Existence](https://proofofexistence.com)
 - Contact to be a sponsor <a href="mailto:{{ site.email }}">{{ site.email }}</a>  :)
 
-[//]: <> (@rejon I don't know better way show page modified, so in vim:)
-[//]: <> (:r! date -u)
-{% include footer_meta.md mod_date="Fri Jun 22 06:02:47 UTC 2018" %}
+{% include footer_meta.md mod_date=page.date %}
