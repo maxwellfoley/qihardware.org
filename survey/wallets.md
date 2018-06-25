@@ -27,9 +27,9 @@ __As of 2018-06-25__
 
 #### Downsides
 
-- Apple looks to block cryptocurrency wallets like trust, toshi, etc. [Status Release Notes](https://blog.status.im/status-alpha-0-9-20-release-notes-f48b9c5a87e2)
+- Apple looks to block cryptocurrency wallets like trust, toshi, etc. [Status Release Notes](https://blog.status.im/status-alpha-0-9-20-release-notes-f48b9c5a87e2), [iOS Discussion](https://discuss.status.im/t/prevention-of-censorship-and-central-power-intervention/96/3)
 - Status app already blocked
-- Toshi wallet blocked
+- Trust wallet given 2 week notice
 - Option for future wallets: Android, custom hardware, desktop-based
 
 [//]: <> (@rejon I don't know better way show page modified, so in vim:)
