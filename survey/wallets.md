@@ -6,17 +6,17 @@ __As of 2018-06-21__
 ## Hardware
 
 ### Open Source
-	- [Anelok](https://anelok.com)
-	- [TREZOR](https://trezor.io)
-	- [KeepKey](https://www.keepkey.com)
+- [Anelok](https://anelok.com)
+- [TREZOR](https://trezor.io)
+- [KeepKey](https://www.keepkey.com)
 
 ### Close Source
-	- [Ledger](https://www.ledgerwallet.com)
-	- [CoolWallet](https://coolwallet.io)
+- [Ledger](https://www.ledgerwallet.com)
+- [CoolWallet](https://coolwallet.io)
 
 ### Assessing if REAL
-    - [BITHD](https://bithd.com/wallet/)
-    - [BITHD Source Code](https://github.com/bithd)
+- [BITHD](https://bithd.com/wallet/)
+- [BITHD Source Code](https://github.com/bithd)
 
 ## Software
 
