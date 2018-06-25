@@ -1,7 +1,7 @@
 # Survey of Wallets
 ## Current State of Hardware & Software Wallets
 
-__As of 2018-06-21__
+__As of 2018-06-25__
 
 ## Hardware
 
@@ -34,4 +34,4 @@ __As of 2018-06-21__
 
 [//]: <> (@rejon I don't know better way show page modified, so in vim:)
 [//]: <> (:r! date -u)
-{% include footer_meta.md mod_date="Fri Jun 22 10:31:40 UTC 2018" %}
+{% include footer_meta.md mod_date="Mon Jun 25 07:16:56 UTC 2018" %}
