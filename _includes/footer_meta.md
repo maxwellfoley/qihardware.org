@@ -1,6 +1,8 @@
 ## Do you know more?
 
-- Please do help us add the latest knowledge to this guide.
+Please do help us add the latest knowledge to this guide.
+
+<a href="{{ site.github.repository_url }}" class="button" style="background-color: #008CBA  ; border: none; color: white; padding: 12px 24px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 12px;">Edit now</a>
 
 ---
 
