@@ -6,7 +6,7 @@ __As of 2018-06-26__
 ## Certifications
 
 99% of the time when someone says let's "Put That On the Blockchain" what that
-is transalted into is a timestamp and sha-256 hash placed onto the main  Bitcoin or
+is transalted into is a timestamp and sha-256 hash placed onto the main Bitcoin or
 Ethereum blockchains. 
 
 ### Proof of Existence
@@ -28,11 +28,10 @@ Let's consider messages as small documents, so when we are talking about
 Documents we are really talking about documents like PDF, Songs, Videos, 
 Presentations, etc. So let's consider documents 1 mb and larger.
 
-
 ## Needs Research
 
-- Factum
-- SIAcoin
+- Factom
+- Siacoin
 - Filecoin (status)
 
 [//]: <> (@rejon I don't know better way show page modified, so in vim:)
