@@ -28,6 +28,7 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 ## Surveys
 
 - [Wallets](/survey/wallets)
+- [Put It On the Blockchain](/survey/put-it-on-the-blockchain)
 
 ## Events
 
