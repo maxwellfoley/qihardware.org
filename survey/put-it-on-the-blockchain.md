@@ -28,6 +28,13 @@ Let's consider messages as small documents, so when we are talking about
 Documents we are really talking about documents like PDF, Songs, Videos, 
 Presentations, etc. So let's consider documents 1 mb and larger.
 
+
+## Needs Research
+
+- Factum
+- SIAcoin
+- Filecoin (status)
+
 [//]: <> (@rejon I don't know better way show page modified, so in vim:)
 [//]: <> (:r! date -u)
 {% include footer_meta.md mod_date="Tue Jun 26 04:05:35 UTC 2018" %}
