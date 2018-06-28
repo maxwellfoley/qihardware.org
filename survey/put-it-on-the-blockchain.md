@@ -24,11 +24,15 @@ insanity of putting increasingly larger sets of data onto "the blockchain". Even
 the forked Bitcoin, BCH, has an increased block size to 32mb, but only 220 bytes
 in the OP_RETURN for placing a document.
 
+- [List of Hacky Ways to Put Message on Bitcoin Blockchain](https://www.quora.com/Bitcoin-How-can-I-leave-a-message-in-the-block-chain/answer/Adam-Tache)
+
 ### Documents
 
 Let's consider messages as small documents, so when we are talking about 
 Documents we are really talking about documents like PDF, Songs, Videos, 
 Presentations, etc. So let's consider documents 1 mb and larger.
+
+- More than likely, best way to do this is SHA-256 hash to external storage
 
 ## Blockchain File Storage
 
