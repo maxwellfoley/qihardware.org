@@ -5,6 +5,19 @@ __As of 2018-06-29__
 
 ## Cryptocurrency
 
+### Bitcoin
+
+- Too difficult to mine now, unless you have 100,000 USD to start. Massive competition, consolidation in progress of first generations of miners.
+- Buy BTC is best right now if you want to participate in largest market cap cryptocurrency.
+- The original and not tokenized.
+
+### Ethereum
+
+- Possible to mine currently with Proof of Work still supported by both $ETH
+- Planned fork of $ETH towards Proof of Stake consensus protocol helped create fork to $ETC (Ethereum Classic)
+- Can buy directly $ETH
+- Tokens are all derivatives of of $ETH
+
 ### FCoin
 
 官方宣称：FCoin是世界首家资产透明的数字资产交易平台，会将平台80%的收入定期分配给FT持有者。
