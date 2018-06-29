@@ -9,8 +9,8 @@ __As of 2018-06-29__
 
 官方宣称：FCoin是世界首家资产透明的数字资产交易平台，会将平台80%的收入定期分配给FT持有者。
 
-- 官网：https://www.fcoin.com
-- 白皮书：https://www.fcoin.com/ft.pdf?v=1.3
+- [官网](https://www.fcoin.com)
+- [白皮书](https://www.fcoin.com/ft.pdf?v=1.3)
 
 创新：
 1. 交易及挖矿
