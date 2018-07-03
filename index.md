@@ -24,6 +24,7 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 - [Setup a Bitcoin Fullnode](/guide/setup-bitcoin-fullnode)
 - [Setup a Ethereum Fullnode](/guide/setup-ethereum-fullnode)
 - [Setup an Ethereum Miner](/guide/setup-ethereum-miner)
+- [Setup an IPFS Node](/guide/setup-ipfs-node)
 
 ## Surveys
 
@@ -41,6 +42,7 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 - <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 - Telegram: [https://t.me/proofofhardware](https://t.me/proofofhardware)
 - Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
+- Wechat: Ask in Telegram or via e-mai for invite.
 
 ## Contributors
 
