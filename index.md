@@ -44,9 +44,9 @@ The more components used, the more complexity is added.
 
 If you can't wait to try, the following are best practice guides:
 
+- [Setup an Ethereum Miner](/guide/setup-ethereum-miner)
 - [Setup a Bitcoin Fullnode](/guide/setup-bitcoin-fullnode)
 - [Setup an Ethereum Fullnode](/guide/setup-ethereum-fullnode)
-- [Setup an Ethereum Miner](/guide/setup-ethereum-miner)
 - [Hello World for Fullnode](/guide/fullnode-helloworld)
 
 ### IPFS
