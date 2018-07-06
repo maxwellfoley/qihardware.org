@@ -1,3 +1,9 @@
+---
+
+date: 2018-07-06 09:43:58 +0000
+
+---
+
 # Survey of Putting It On the Blockchain
 ## Current State of Putting Things onto the Blockchain
 
@@ -42,6 +48,4 @@ Presentations, etc. So let's consider documents 1 mb and larger.
 - Siacoin
 - Filecoin (status)
 
-[//]: <> (@rejon I don't know better way show page modified, so in vim:)
-[//]: <> (:r! date -u)
-{% include footer_meta.md mod_date="Tue Jun 26 04:05:35 UTC 2018" %}
+{% include footer_meta.md mod_date=page.date %}

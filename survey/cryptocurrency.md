@@ -1,3 +1,9 @@
+---
+
+date: 2018-07-06 09:43:58 +0000
+
+---
+
 # Survey of Cryptocurrency
 ## Current State of Cryptocurrency
 
@@ -37,4 +43,4 @@ __As of 2018-06-29__
 3. 自治组织和智能合约投票，让人联想到DAO
 4. 通缩型货币，是否会像比特币一样，不断的暴长？
 
-{% include footer_meta.md %}
+{% include footer_meta.md mod_date=page.date %}

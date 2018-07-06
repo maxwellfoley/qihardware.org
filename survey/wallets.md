@@ -1,3 +1,9 @@
+---
+
+date: 2018-07-06 09:43:58 +0000
+
+---
+
 # Survey of Wallets
 ## Current State of Hardware & Software Wallets
 
@@ -32,6 +38,4 @@ __As of 2018-06-25__
 - Trust wallet given 2 week notice
 - Option for future wallets: Android, custom hardware, desktop-based
 
-[//]: <> (@rejon I don't know better way show page modified, so in vim:)
-[//]: <> (:r! date -u)
-{% include footer_meta.md mod_date="Mon Jun 25 07:16:56 UTC 2018" %}
+{% include footer_meta.md mod_date=page.date %}
