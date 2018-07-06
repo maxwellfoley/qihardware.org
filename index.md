@@ -21,9 +21,48 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 
 ## Guides
 
+### Full Node
+
+Full node defination from [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+
+```
+A bitcoin network node with all four functions: wallet, miner, full blockchain database, and network routing
+```
+
+Actually, any health crypto currency should contains all of these functions.
+
+It is the fundamental component of blockchain.
+
+You can use them separately, part of them or combine serval of them in your product.
+
+e.g.
+
+1. Mining pool only use part of full blockchain database, network routing, wallet and miner
+
+2. Cryptocurrency trading platform can use wallet only
+
+3. Block Explorer use full blockchain database
+
+4. Hardware wallet only use part of wallet
+
+More components it used, more complexity it will be.
+
+If you can't wait to try, the following will be the best practise.
+
 - [Setup a Bitcoin Fullnode](/guide/setup-bitcoin-fullnode)
 - [Setup an Ethereum Fullnode](/guide/setup-ethereum-fullnode)
 - [Setup an Ethereum Miner](/guide/setup-ethereum-miner)
+
+### IPFS
+
+It is a [distributed file system](https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems), not blockchain.
+
+If you want to know more about instances of distributed file system,
+
+you can find a lot of informations through [Wikepedia](https://en.wikipedia.org/wiki/List_of_file_systems#Distributed_file_systems)
+
+If you can't wait to try, the following will be the best practise.
+
 - [Setup an IPFS Node](/guide/setup-ipfs-node)
 
 ## Surveys
