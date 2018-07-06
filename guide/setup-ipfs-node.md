@@ -1,3 +1,7 @@
+---
+date: 2018-07-06 09:43:58 +0000
+---
+
 # Setup an IPFS Node
 ### The Definitive Guide
 
@@ -49,6 +53,4 @@ This guide is meant to be best CURRENT practice in a few scenarios.
 
 
 
-[//]: <> (@rejon I don't know better way show page modified, so in vim:)
-[//]: <> (:r! date -u)
-{% include footer_meta.md mod_date="Tue Jul  3 06:45:15 UTC 2018" %}
+{% include footer_meta.md mod_date=page.date %}

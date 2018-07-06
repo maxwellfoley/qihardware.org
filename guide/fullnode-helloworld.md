@@ -1,3 +1,9 @@
+---
+date: 2018-07-06 09:41:36 +0000
+# Update page modified by changing the date.                                   
+# In Vim use `:r! date -u +"%F %T %z"`                                         
+---
+
 # Fullnode Hello World
 
 Learn the full node through `hello world` for separate components.
@@ -48,5 +54,5 @@ Routing is not as popular as the other components. You can also learn it from th
 - [BTC Relay](https://github.com/consensys/btcrelay-fetchd)
 - [Fast Internet Bitcoin Relay Engine](https://github.com/bitcoinfibre/bitcoinfibre)
 
-{% include footer_meta.md mod_date="Fri Jul  6 06:44:19 UTC 2018" %}
+{% include footer_meta.md mod_date=page.date %}
 

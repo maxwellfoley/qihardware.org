@@ -1,3 +1,9 @@
+---
+date: 2018-07-06 09:41:36 +0000
+# Update page modified by changing the date.
+# In Vim use `:r! date -u +"%F %T %z"`
+---
+
 # Setup a Bitcoin Full Node 
 ### The Definitive Guide
 
@@ -97,6 +103,4 @@ is throughput on the drive.
 
 
 
-[//]: <> (@rejon I don't know better way show page modified, so in vim:)
-[//]: <> (:r! date -u)
-{% include footer_meta.md mod_date="Fri Jun 22 08:21:19 UTC 2018" %}
+{% include footer_meta.md mod_date=page.date %}

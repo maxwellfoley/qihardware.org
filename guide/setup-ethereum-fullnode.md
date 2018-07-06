@@ -1,3 +1,6 @@
+---
+date: 2018-07-06 09:43:58 +0000
+---
 # Setup an Ethereum Full Node
 ### The Definitive Guide
 
@@ -48,7 +51,5 @@ sudo apt-get install ethereum
 
 
 
-[//]: <> (@rejon I don't know better way show page modified, so in vim:)
-[//]: <> (:r! date -u)
-{% include footer_meta.md mod_date="Fri Jun 22 08:30:54 UTC 2018" %}
+{% include footer_meta.md mod_date=page.date %}
 

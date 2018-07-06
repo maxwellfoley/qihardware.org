@@ -1,3 +1,7 @@
+---
+date: 2018-07-06 09:43:58 +0000
+---
+
 # Ethereum Mining Guide
 
 ## Mining on AWS
@@ -24,4 +28,4 @@ Power supply | 1600W Power Supply
 ### Software & Guide
 - [Setup Ethereum Ubuntu AMD Radeon rx570 Miner](http://centosquestions.com/quick-setup-claymore-ethereum-mining-ubuntu-amd-radeon-rx570/)
 
-{% include footer_meta.md %}
+{% include footer_meta.md mod_date=page.date %}
