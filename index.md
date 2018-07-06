@@ -91,4 +91,5 @@ Here are our best practices:
 - [Proof of Existence](https://proofofexistence.com)
 - Contact to be a sponsor <a href="mailto:{{ site.email }}">{{ site.email }}</a>  :)
 
+
 {% include footer_meta.md mod_date=page.date %}
