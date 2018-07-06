@@ -23,29 +23,26 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 
 ### Full Node
 
-Full node defination from [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+Here is a "Full node" definition from [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook): 
+ "[A bitcoin network node with all four functions: wallet, miner, full blockchain database, and network routing](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc#full_node_reference)"
 
-[A bitcoin network node with all four functions: wallet, miner, full blockchain database, and network routing](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc#full_node_reference)
+Actually, any healthy crypto currency should contain all of four of these fundamnentalk functions.
 
-Actually, any health crypto currency should contains all of these functions.
+You may use them separately, part of them or combine them to make your product.
 
-It is the fundamental component of blockchain.
+For example:
 
-You can use them separately, part of them or combine serval of them in your product.
+1. __Mining pool__: only use part of full blockchain database, network routing, wallet and miner.
 
-e.g.
+2. __Cryptocurrency trading platform__: only uses wallet.
 
-1. Mining pool only use part of full blockchain database, network routing, wallet and miner
+3. __Block Explorer__: uses full blockchain database.
 
-2. Cryptocurrency trading platform can use wallet only
+4. __Hardware wallet__: only use part of the wallet.
 
-3. Block Explorer use full blockchain database
+The more components used, the more complexity is added.
 
-4. Hardware wallet only use part of wallet
-
-More components it used, more complexity it will be.
-
-If you can't wait to try, the following will be the best practise.
+If you can't wait to try, the following are best practice guides:
 
 - [Setup a Bitcoin Fullnode](/guide/setup-bitcoin-fullnode)
 - [Setup an Ethereum Fullnode](/guide/setup-ethereum-fullnode)
@@ -54,13 +51,11 @@ If you can't wait to try, the following will be the best practise.
 
 ### IPFS
 
-It is a [distributed file system](https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems), not blockchain.
+IPFS is a [distributed file system](https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems), not the blockchain.
 
-If you want to know more about instances of distributed file system,
+If you want to know more about instances of distributed file system, there are lots of information available through [Wikepedia](https://en.wikipedia.org/wiki/List_of_file_systems#Distributed_file_systems).
 
-you can find a lot of informations through [Wikepedia](https://en.wikipedia.org/wiki/List_of_file_systems#Distributed_file_systems)
-
-If you can't wait to try, the following will be the best practise.
+Here are our best practices:
 
 - [Setup an IPFS Node](/guide/setup-ipfs-node)
 
