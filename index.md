@@ -26,7 +26,7 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 Full node defination from [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 
 ```
-A bitcoin network node with all four functions: wallet, miner, full blockchain database, and network routing
+[A bitcoin network node with all four functions: wallet, miner, full blockchain database, and network routing](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc#full_node_reference)
 ```
 
 Actually, any health crypto currency should contains all of these functions.
