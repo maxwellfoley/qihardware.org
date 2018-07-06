@@ -55,7 +55,7 @@ If you can't wait to try, the following are best practice guides:
 
 IPFS is a [distributed file system](https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems), not the blockchain.
 
-If you want to know more about instances of distributed file system, there are lots of information available through [Wikepedia](https://en.wikipedia.org/wiki/List_of_file_systems#Distributed_file_systems).
+If you want to know more about instances of distributed file system, there are lots of information available through [Wikipedia](https://en.wikipedia.org/wiki/List_of_file_systems#Distributed_file_systems).
 
 Here are our best practices:
 
