@@ -1,7 +1,5 @@
 ---
-
 date: 2018-07-06 09:43:58 +0000
-
 ---
 
 # Survey of Putting It On the Blockchain
