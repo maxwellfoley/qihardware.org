@@ -50,6 +50,7 @@ If you can't wait to try, the following will be the best practise.
 - [Setup a Bitcoin Fullnode](/guide/setup-bitcoin-fullnode)
 - [Setup an Ethereum Fullnode](/guide/setup-ethereum-fullnode)
 - [Setup an Ethereum Miner](/guide/setup-ethereum-miner)
+- [Hello World for Fullnode](/guide/fullnode-helloworld)
 
 ### IPFS
 
