@@ -1,12 +1,12 @@
 # Fullnode Hello World
 
-Learn the full node through `hello world` for separate component.
+Learn the full node through `hello world` for separate components.
 
 ## Full blockchain database
 
-It will need a long time to synchronize all the database, be patient please.
+It will need a long time to synchronize the entire database, be patient please.
 
-We use the lightweight way to learn the database
+We will use a lightweight way to learn the database:
 
 - [Insight: A bitcoin blockchain explorer and API](https://insight.is)
 
@@ -22,9 +22,7 @@ Then open a browser and go to: `http://localhost:8100`
 
 You can use any type of wallet, online/offline, software/hardware.
 
-A lot of users use SPV wallet today. so you don't need to wait a long time to
-
-synchronize all the database.
+A lot of users use SPV wallet today, so you don't need to wait a long time to synchronize the entire database.
 
 - [Bitpay payment test](https://bitpay.com/docs/testing)
 
@@ -32,19 +30,19 @@ synchronize all the database.
 
 You should know [Block hashing algorithm](https://en.bitcoin.it/wiki/Block_hashing_algorithm) in the beginning,
 
-There are 2 ways for the crypto currency mining, [solo or mining pool](https://en.bitcoin.it/wiki/Pool_vs._solo_mining)
+There are 2 ways to do crypto currency mining, [solo or mining pool](https://en.bitcoin.it/wiki/Pool_vs._solo_mining)
 
-Actually it seems nobody use solo mining today, although it is better to understand how miner works.
+Actually it seems nobody uses "solo mining" today, although it is more useful to understand how the miner works.
 
-People eager to use mining pool, it will get stable reward, but it makes a bit hard to understand how miner works.
+People eager to use a "mining pool," you will get more stable rewards, but it makes understanding how mining works more difficult.
 
-It's better to buy a ASIC miner or GPU miner today, it will waste a lot of time for you to build a useless miner.
+Today, it's better to buy a ASIC miner or GPU miner today, as it will waste a lot of time for you to build a useless miner that is not competitive today.
 
 If you still want to know more about miner, you can read the article [Bitcoin mining the hard way: the algorithms, protocols, and bytes](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 
 ## Network routing
 
-Routing is not popular than the other component, you can also learn it from the following
+Routing is not as popular as the other components. You can also learn it from the following
 
 - [Blockstream Satellite](https://github.com/Blockstream/satellite)
 - [BTC Relay](https://github.com/consensys/btcrelay-fetchd)
