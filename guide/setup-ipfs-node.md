@@ -32,6 +32,8 @@ This guide is meant to be best CURRENT practice in a few scenarios.
 
 ## From Beginner to Expert
 
+### EASY: [Run IPFS in a Docker container](https://ipfs.io/blog/1-run-ipfs-on-docker/)
+
 ### EASY: Run ipfs on your computer
 
 - [Install IPFS](https://ipfs.io/docs/install)
