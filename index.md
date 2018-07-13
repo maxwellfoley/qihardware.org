@@ -66,6 +66,7 @@ Here are our best practices:
 - [Wallets](/survey/wallets)
 - [Put It On the Blockchain](/survey/put-it-on-the-blockchain)
 - [Cryptocurrency](/survey/cryptocurrency)
+- [Books](/survey/books)
 
 ## Events
 
