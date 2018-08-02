@@ -50,6 +50,7 @@ If you can't wait to try, the following are best practice guides:
 - [Setup a Bitcoin Fullnode](/guide/setup-bitcoin-fullnode)
 - [Setup an Ethereum Fullnode](/guide/setup-ethereum-fullnode)
 - [Hello World for Fullnode](/guide/fullnode-helloworld)
+- [Your first cryptocurrency transaction without real coins](/guide/testnet-guide.md)
 
 ### IPFS
 
