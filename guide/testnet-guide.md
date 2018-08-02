@@ -1,3 +1,9 @@
+---
+date: 2018-08-02 12:14:43 +0000
+# Update page modified by changing the date.
+# In Vim use `:r! date -u +"%F %T %z"`
+---
+
 # Your first cryptocurrency transaction without real coins (Testnet guide)
 
 The cryptocurrency is usually too much expensive to be used for test today.
@@ -88,3 +94,5 @@ You can find your transactions through the Ethereum Explorer
 - [ROPSTEN Explorer](https://ropsten.etherscan.io)
 - [RINKEBY Explorer](https://rinkeby.etherscan.io)
 - [KOVAN Explorer](https://kovan.etherscan.io)
+
+{% include footer_meta.md mod_date=page.date %}
