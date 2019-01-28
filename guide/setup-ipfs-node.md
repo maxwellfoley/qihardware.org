@@ -1,11 +1,15 @@
 ---
-date: 2018-07-06 09:43:58 +0000
+date: 2019-01-28 09:43:58 +0000
 ---
 
 # Setup an IPFS Node
 ### The Definitive Guide
 
-We could not take it any longer. When we heard that in China people have been
+IPFS is a [distributed file system](https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems), not the blockchain.
+
+If you want to know more about instances of distributed file system, there are lots of information available through [Wikipedia](https://en.wikipedia.org/wiki/List_of_file_systems#Distributed_file_systems).
+
+EDITOR NOTE: We could not take it any longer. When we heard that in China people have been
 buying hard drives with ipfs enabled, thinking it will generate money, we had
 to get closer to the reality of setting up an IPFS node RIGHT NOW.
 
@@ -23,7 +27,7 @@ This guide is meant to be best CURRENT practice in a few scenarios.
 
 ## Biggest Issues
 
-- There is no human friendly interface to setup IPFS on a drive. 
+- There is no human friendly interface to setup IPFS on a drive.
 - There is no system for generating revenue from running or, renting the extra space on your HD.
 - Low adoption
 - Lots of competition from Google, Amazon, Apple, MS on cloud storage.
