@@ -69,7 +69,7 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 - [Linzhi](https://linzhi.io)
 - [POEX](https://poex.io)
 - [Proof of Existence](https://proofofexistence.com)
-- Contact to be a supporter <a href="mailto:{{ site.email }}">{{ site.email }}</a>  :)
+- _Contact to be a supporter <a href="mailto:{{ site.email }}">{{ site.email }}</a>  :)_
 
 
 {% include footer_meta.md mod_date=page.date %}
