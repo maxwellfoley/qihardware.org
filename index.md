@@ -8,8 +8,6 @@ date: 2018-07-06 13:40:09 +0000
 
 <a class="github-ribbon" href="{{ site.github.repository_url }}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
 
-# Proof of Hardware
-
 ![](/assets/poh-logo-256.png?raw=true)
 
 ### {{ site.description | default: site.github.project_tagline }}
@@ -71,15 +69,14 @@ Here are our best practices:
 
 ## Events
 
-- Currently we are planning a summertime Proof of Hardware summit in Shenzhen.
+- Currently we are planning a Proof of Hardware summit in Shenzhen.
 - Stay tuned here for more details.
 
 ## Contact
 
 - <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-- Telegram: [https://t.me/proofofhardware](https://t.me/proofofhardware)
-- Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
-- WeChat: Ask in Telegram or via e-mai for invite.
+- Telegram: [https://t.me/{{ site.telegram }}](https://t.me/{{ site.telegram }})
+- Twitter: [https://twitter.com/{{ site.twitter }}](https://twitter.com/{{ site.twitter }}) (news & for public announcements)
 
 ## Contributors
 
@@ -89,11 +86,12 @@ Here are our best practices:
 - [Christopher Adams](https://christopheradams.io) @christopheradams
 - Add yourself :)
 
-## Sponsors
+## Supporters
 
+- [Fabricatorz Foundation](https://fabricatorz.org)
 - [POEX](https://poex.io)
 - [Proof of Existence](https://proofofexistence.com)
-- Contact to be a sponsor <a href="mailto:{{ site.email }}">{{ site.email }}</a>  :)
+- Contact to be a supporter <a href="mailto:{{ site.email }}">{{ site.email }}</a>  :)
 
 
 {% include footer_meta.md mod_date=page.date %}
