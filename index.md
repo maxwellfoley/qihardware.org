@@ -12,23 +12,47 @@ date: 2019-01-28 10:40:09 +0000
 
 ### {{ site.description | default: site.github.project_tagline }}
 
-Bitcoin mining is currently too expensive for an individual to join. However, the field of blockchain software is still in its infancy. Without a question, hardware will be used to accelerate computation around blockchain developments and cryptocurrencies.
+Hello! Qi is the energy that flows through everything. It is the energy that flows from nature into electricity, from hardware to software, from cryptocurrency to people, and back to nature. It is the vital life force to be balanced through daily practice. Welcome to Qi Hardware!
 
-We (that meaning and could include YOU) made this website to be a group editable resource to break thru the noise of the web, and paid reviews, or guides, to be an open community process for jumpstarting the world of Blockchain Hardware from the individual up. We are contributors made up from the team that invented Bitcoin mining, living and working Beijing, Shenzhen, Hong Kong, Taiwan and San Francisco, coming together to bring software developers closer to hardware realities.
+Qi Hardware is bringing together:
 
-Please add your knowledge to these guides, and see you at a future event in Shenzhen :)
+- Cryptocurrency and Blockchain Software & Hardware Innovators
+- Open Source Software and Hardware Developers
+- Previous Qi Hardware Project and Community as Makes sense
+- Ethusiasts of Cryptocurrency, China and Shenzhen
 
-## Events
+### TODO
+
+- [x] clone proofofhardware.com distributed
+- [x] create clear introduction text
+- [x] update qi-hardware.com logo
+- [ ] create social
+  - [x] telegram
+  - [x] Instagram
+  - [ ] Twitter (in-progress)
+- [ ] figure out what to port from qi-hardware.com
+- [ ] complete document drafts one by one
+- [ ] invite people from qihardware irc with an announcement
+- [ ] invite world to qihardware.org
+- [ ] ideas needing more exploration
+  - [ ] eip drafts and documents
+  - [ ] journal for science papers
+  - [ ] energy testing equipment and tools (testnet)
+  - [ ] proof of hardware shenzhen summit (march?)
+  - [ ] fellowship or grants?
+  - [ ] howto generate resources to grow community
+
+### Events
 
 - Currently we are planning a Proof of Hardware summit in Shenzhen.
 - _Stay tuned here for more details._
 
-## Glossary
+### Glossary
 
 - [Fullnode](/glossary/fullnode)
 - _Add your term here, we will keep improving this._
 
-## Guides
+### Guides
 
 - Bitcoin
   - [Hello World for Fullnode](/guide/fullnode-helloworld)
@@ -40,7 +64,7 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 - IPFS
   - [Setup an IPFS Node](/guide/setup-ipfs-node)
 
-## Surveys
+### Surveys
 
 - [Wallets](/survey/wallets)
 - [Put It On the Blockchain](/survey/put-it-on-the-blockchain)
@@ -48,22 +72,23 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 - [Books](/survey/books)
 
 
-## Contact
+### Contact
 
 - E-mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 - Telegram: [https://t.me/{{ site.telegram }}](https://t.me/{{ site.telegram }})
 - Twitter: [https://twitter.com/{{ site.twitter }}](https://twitter.com/{{ site.twitter }}) (news & for public announcements)
+- Instagram: [https://instagram.com/{{ site.instagram }}](https://instagram.com/{{ site.instagram }}) (community building)
 
-## Contributors
+### Contributors
 
 - [Christopher Adams](https://christopheradams.io) @christopheradams
 - [Qin Fengling](http://qinfengling.io), @qinfengling
-- [Jon Phillips](http://rejon.org), @rejon
+- [Jon Phillips](https://rejon.org), @rejon
 - [Clément Renaud](http://clementrenaud.com) @clemsos
-- [Wolfgang Spraul](https://qihardware.com) @qihardware
+- [Wolfgang Spraul](https://qihardware.org) @qihardware
 - Add yourself :)
 
-## Supporters
+### Supporters
 
 - [Fabricatorz Foundation](https://fabricatorz.org)
 - [Linzhi](https://linzhi.io)

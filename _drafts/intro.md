@@ -10,5 +10,7 @@ Bitcoin mining is currently too expensive for an individual to join. However, th
 
 We, and open to YOU, are making this project to be a group editable resource to break thru the noise of the web, and paid reviews, or guides, to be an open community process for jumpstarting the world of Blockchain Hardware from the individual up. We are Open Source, Blockchain Hardware and Software contributors. We live and work in Shenzhen, Hong Kong, Beijing, Taiwan, Berlin, San Francisco, and more. We are coming together to bring software developers closer to hardware realities.
 
+Please add your knowledge to these guides, and see you at a future event in Shenzhen :)
+
 
 {% include footer_meta.md mod_date=page.date %}
