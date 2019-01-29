@@ -33,7 +33,7 @@ Qi Hardware is bringing together:
 - [ ] figure out what to port from qi-hardware.com
 - [ ] complete document drafts one by one
 - [ ] invite people from qihardware irc with an announcement
-- [ ] invite world to qihardware.org
+- [ ] invite world to qihardware.org, social push connected to something
 - [ ] ideas needing more exploration
   - [ ] eip drafts and documents
   - [ ] journal for science papers
