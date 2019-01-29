@@ -14,5 +14,7 @@ What is needed to ward off the darkness and bring about the birth of a new era, 
 
 This crypto-enlightenment is sought. And, what comes with enlightenment is renaissance, a crypto-renaissance is coming.
 
+Are you an ENERGIST (innerQIst)? Do you believe in maximizing energy usage and efficiency or are you an outergist, believing in minimizing energy usage and efficiency.
+
 
 {% include footer_meta.md mod_date=page.date %}
