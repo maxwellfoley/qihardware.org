@@ -30,6 +30,7 @@ Qi Hardware is bringing together:
   - [x] telegram
   - [x] Instagram
   - [ ] Twitter (in-progress)
+- [ ] pick out a font for the site
 - [ ] figure out what to port from qi-hardware.com
 - [ ] complete document drafts one by one
 - [ ] invite people from qihardware irc with an announcement
