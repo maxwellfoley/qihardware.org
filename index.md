@@ -21,6 +21,25 @@ Qi Hardware is bringing together:
 - Previous Qi Hardware Project and Community as Makes sense
 - Ethusiasts of Cryptocurrency, China and Shenzhen
 
+### Brief history
+
+_This is meant to be sequential and need to put dates down. Any rough estimates are helpful, thans!_
+
+- Open Source movement
+- Creative Commons and Free Culture movements
+- Openmoko: First Open Source Cellphone
+- Qi Hardware born
+- Qi Ben Nanonote
+- Milkymist, the video mixer, fpga chip
+- Milkymist, the first fpga bitcoin Miner
+- Qi Hardware Goes Read-Only
+- Canaan AvalonMiner 1st ASIC Miner born
+- Canaan Continues AvalonMiner 2..9xx Series of Bitcoin Miners
+- Bitmain makes Bitcoin miner, Uses Canaan Open Source
+- Poex Born, Proof of Existence codebase open sourced
+- Linzhi Founded to make Ethereum ASICs
+- Qi Hardware now possible!
+
 ### TODO
 
 - [x] clone proofofhardware.com distributed
@@ -29,8 +48,9 @@ Qi Hardware is bringing together:
 - [ ] create social
   - [x] telegram
   - [x] Instagram
-  - [ ] Twitter (in-progress)
+  - [x] Twitter
 - [ ] pick out a font for the site
+- [ ] add history of project
 - [ ] figure out what to port from qi-hardware.com
 - [ ] complete document drafts one by one
 - [ ] invite people from qihardware irc with an announcement
