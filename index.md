@@ -19,7 +19,7 @@ Qi Hardware is bringing together:
 - Cryptocurrency and Blockchain Software & Hardware Innovators
 - Open Source Software and Hardware Developers
 - Previous Qi Hardware Project and Community as Makes sense
-- Ethusiasts of Cryptocurrency, China and Shenzhen
+- Enthusiasts of Cryptocurrency, China and Shenzhen
 
 ### Brief history
 
