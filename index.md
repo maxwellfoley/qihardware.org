@@ -117,5 +117,15 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
 - [Proof of Existence](https://proofofexistence.com)
 - _Contact to be a supporter <a href="mailto:{{ site.email }}">{{ site.email }}</a>  :)_
 
+### We are a US 501c(3) Non-profit Foundation.
+
+We are hosted by <a href="https://fabricatorz.org">Fabricatorz Foundation</a>.
+
+Donations may be made to:
+
+- Bitcoin: 1HZHH4dfv8tfffzTH6S6aGt8vA4ZteUrZF
+- Ethereum: 0x508F2F6518b9B49156668DDB72be844155c466FC
+- <a href="mailto:ai@qihardware.org">USD or other fiat currencies please e-mail us</a>
+
 
 {% include footer_meta.md mod_date=page.date %}
