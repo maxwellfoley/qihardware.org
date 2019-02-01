@@ -1,6 +1,6 @@
 ## Qi Hardware
 
-### Bringing Together Software, Hardware, Crypto & People to Grow the Commons.
+### Growing the Commons by bringing together People in Software, Hardware & Crypto.
 
 Please contribute to this project by cloning this repo, or sending PRs to 
 help improve it. 
