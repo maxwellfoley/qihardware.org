@@ -57,11 +57,14 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
 - [ ] invite world to qihardware.org, social push connected to something
 - [ ] ideas needing more exploration
   - [ ] eip drafts and documents
-  - [ ] journal for science papers
   - [ ] energy testing equipment and tools (testnet)
   - [ ] proof of hardware shenzhen summit (march?)
   - [ ] fellowship or grants?
   - [ ] howto generate resources to grow community
+- [ ] Journal (SCALE)
+  - [ ] How to request/receive research/writeups?
+  - [ ] What is the format? PDF?
+  - [ ] Determine list of articles/topics for volume 1
 
 ### Events
 
