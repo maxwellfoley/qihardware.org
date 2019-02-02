@@ -21,9 +21,11 @@ Qi Hardware is bringing together:
 - Previous Qi Hardware Project and Community as Makes sense
 - Enthusiasts of Cryptocurrency, China and Shenzhen
 
+Please join our Telegram group: [https://t.me/{{ site.telegram }}](https://t.me/{{ site.telegram }})
+
 ### Brief history
 
-_This is meant to be sequential and need to put dates down. Any rough estimates are helpful, thans!_
+_This is meant to be sequential and need to put dates down. Any rough estimates are helpful, thanks!_
 
 - Open Source movement
 - Creative Commons and Free Culture movements
@@ -62,6 +64,7 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
   - [ ] proof of hardware shenzhen summit (march?)
   - [ ] fellowship or grants?
   - [ ] howto generate resources to grow community
+- [ ] Call for volunteers to help with journal: research papers, etc.
 
 ### Events
 
@@ -107,6 +110,7 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
 - [Jon Phillips](https://rejon.org), @rejon
 - [Clément Renaud](http://clementrenaud.com) @clemsos
 - [Wolfgang Spraul](https://qihardware.org) @qihardware
+- Tyler Mathews
 - Add yourself :)
 
 ### Supporters
