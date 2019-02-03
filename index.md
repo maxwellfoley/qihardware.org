@@ -23,6 +23,20 @@ Qi Hardware is bringing together:
 
 Please join our Telegram group: [https://t.me/{{ site.telegram }}](https://t.me/{{ site.telegram }})
 
+### Posts
+
+<h1>Latest Posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+
 ### Brief history
 
 _This is meant to be sequential and need to put dates down. Any rough estimates are helpful, thanks!_
