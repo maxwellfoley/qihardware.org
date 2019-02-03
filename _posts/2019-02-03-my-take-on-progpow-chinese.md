@@ -1,15 +1,14 @@
 ---
 layout: post
 author: Alexey Akhunov
+title: My take on ProgPOW — looking for a reasonable answer to a reasonable question (Chinese Translation)
 ---
-
-## Claims of My Take on ProgPOW
 
 _EDITOR NOTE: This is a community translation of Alexey Akhunov's [original post on Medium](https://medium.com/@akhounov/my-take-on-progpow-looking-for-a-reasonable-answer-to-a-reasonable-question-9f13ffd4e9d7)._
 
-Claim 1: The only ways to stop the development of specialised mining devices for Ethereum are to make ETH really cheap, or to drastically reduce mining reward
+### Claim 1: The only ways to stop the development of specialised mining devices for Ethereum are to make ETH really cheap, or to drastically reduce mining reward
 
-主张1：阻止以太坊专用挖矿设备开发的唯一路径，是打压以太币价格，或大幅降低挖矿奖励。
+### 主张1：阻止以太坊专用挖矿设备开发的唯一路径，是打压以太币价格，或大幅降低挖矿奖励。
 
 Both of these action lead to the reduction of mining revenue. Nothing else will credibly stop people from trying to develop better devices.
 
@@ -30,11 +29,13 @@ It appears to me that the growing consensus among blockchain developers is that 
 在我看来，区块链开发者之间越来越多的共识是，与挖矿硬件专用化作斗争是适得其反的。相反，开发目标应该是间接促进（或者至少不抵制）挖矿硬件之间的竞争，这可以通过保障挖矿收益来达成。而保障挖矿收益，则可以通过增加挖矿奖励，或降低挖矿成本实现。但EIP-1234(降低挖矿奖励)和ProgPOW（增加挖矿成本），都是朝着相反方向发展。
 
 
-Claim 2: GPU mining is a losing battle, and Ethereum is the last bastion
+### Claim 2: GPU mining is a losing battle, and Ethereum is the last bastion
 
-主张2：使用 GPU 设备挖必败无疑，而以太坊则是这场战役的最后堡垒。
+### 主张2：使用 GPU 设备挖必败无疑，而以太坊则是这场战役的最后堡垒。
 
 If we look at a very helpful table of how much miners earn per day in USD, from messari.io, and recall that Bitcoin, Dash, Litecoin, ZCash, Bitcoin Cash are predominantly mined with specialised (not GPUs) hardware, it becomes clear that Ethereum is “the last bastion” of GPU mining.
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*QsBp6kY8VZWCzeaPQIWy_A.png" alt="Img from medium" />
 
 I do not anticipate any new cryptocurrencies launching with the aspiration of being “ASIC-resistant”. Notable example is Grin, which will increase the reward share of their ASIC-friendly algorithm from 10% to 100% within the first 2 years after launch. Decision of Grin to actually make one of the algorithms ASIC-friendly is due to their hope that making ASIC design simpler will encourage competition. Here is the relevant [video link](https://youtu.be/XckwEw8FyEA?t=1100).
 
@@ -43,18 +44,18 @@ I do not anticipate any new cryptocurrencies launching with the aspiration of be
 我预计任何新发布的加密数字货币都不再有“抗ASIC”的愿景。值得关注的 Grin算法，计划在发布后2年内，将其ASIC友好算法的奖励份额，从10%提升至100%. Grin的这一决定，是基于他们期望ASIC 友好算法可以鼓励竞争。详情请见链接 [video link](https://youtu.be/XckwEw8FyEA?t=1100).
 
 
-Claim 3: Hardware design shops are getting better at what they do
+### Claim 3: Hardware design shops are getting better at what they do
 
-主张3：硬件设备制造商会不断进步。
+### 主张3：硬件设备制造商会不断进步。
 
 One of the most interesting takeways from David Vorick’s talk ([video link](https://youtu.be/sQOfnsW6PTY?t=7841)) for me was that the process of designing digital chips is separate from “taping out”, which is in turn separate from the actual fabrication. Another interesting fact about people like David is that it does not take a very long time (1–2 years) for a very good software developer to learn enough about hardware design to set up a design shop. The required information to do such a transition is not well shared and accessible, so one has to learn directly from people, but such transition is not at all impossible. Hardware design is not a black magic and I expect, given the demand, the number of independent hardware design shops will only grow.
 
 David Vorick 的演讲中([video link](https://youtu.be/sQOfnsW6PTY?t=7841))，最吸引我的一点是，芯片设计和“流片”是分开的，也就是说，芯片设计与芯片制造是分开的。另一个有趣的事实是，像 David 这样的优秀软件工程师，花费相当的时间（1-2年）去学习硬件设计知识，即可建立硬件设计工作室。这种（从软件开发到硬件设计的）转变所需的知识，并不容易获取和共享，所以必须直接请教有经验的人，但这种转变也并非全无可能。硬件设计不是什么黑科技，我预计，基于现有需求，独立硬件设计工作室的数量将会不断增长。
 
 
- Claim 4: Pursuit of “ASIC resistance” is a strategy of denial that can hurt more than help
+### Claim 4: Pursuit of “ASIC resistance” is a strategy of denial that can hurt more than help
 
-主张4：追求“抗 ASIC”是一种逃避策略，对以太坊的发展有害无益。
+### 主张4：追求“抗 ASIC”是一种逃避策略，对以太坊的发展有害无益。
 
 There were some calls to the Ethereum protocol developers to come up with the “Guidelines for the developers of the specialised mining hardware for ProgPOW on Ethereum”. At first, I did not really understand what these guidelines would be. But recently someone has explained to me that it would be basically answer to the question: “Hey, Ethereum protocol developers, we heard you are switching PoW to ProgPoW. We want to start designing a specialised hardware for it (yes, we know that you think we shouldn’t, but it is neither illegal nor unethical to do it, so we will give it a shot). Please tell us what we should do to make sure we are not labeled as bad actors after the fact”.
 
