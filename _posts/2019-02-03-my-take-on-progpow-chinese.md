@@ -4,6 +4,9 @@ author: Alexey Akhunov
 title: My take on ProgPOW — looking for a reasonable answer to a reasonable question (Chinese Translation)
 ---
 
+### 我对 ProgPOW 的看法——为一个合情合理的问题寻找一个合乎逻辑的答案
+
+
 _EDITOR NOTE: This is a community translation of Alexey Akhunov's [original post on Medium](https://medium.com/@akhounov/my-take-on-progpow-looking-for-a-reasonable-answer-to-a-reasonable-question-9f13ffd4e9d7)._
 
 ### Claim 1: The only ways to stop the development of specialised mining devices for Ethereum are to make ETH really cheap, or to drastically reduce mining reward
