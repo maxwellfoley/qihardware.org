@@ -1,20 +1,25 @@
 ---
-date: 2019-01-29 13:12:00 +0000
+date: 2019-02-03 13:12:00 +0000
 # Update page modified by changing the date.                                   
 # In Vim use `:r! date -u +"%F %T %z"`                                         
 ---
 
-## The Crypto-natives
+## Testing Hardware for Ethereum on Global Scale
 
-It is 10 years since the release of Bitcoin. The old timers pre-crypto from the Open Source era start to recognize some members of the crypto community as scammers and innovators, however, what we truly are witnessing are the "crypto-natives". These people were born into crypto and are simply living by the crypto ethos which is get resources in the most efficient way possible.
 
-Currently the crypto-natives natural state is effected by an unforeseen invisible force, the crypto-winter. This has forced the crypto-natives into a cryto-dark age, a crypto-dark forest. The crypto-natives are forced into the crypto-caves.
+Cobbling together notes on how to test ProgPROW and other software that will roll out on global blockchain projects.
 
-What is needed to ward off the darkness and bring about the birth of a new era, is a crypto-enlightenment.
+Here are some bits n pieces:
 
-This crypto-enlightenment is sought. And, what comes with enlightenment is renaissance, a crypto-renaissance is coming.
+- Sonia Chen, [03.02.19 21:33]
+I think first priority is to test over a selection of the most commonly used GPU (and memory) chips, see here http://ethosdistro.com/versions/
+- Sonia Chen, [03.02.19 21:33]
+that doesn't talk about memory though
+- Philip Salter, [03.02.19 21:37]
+Nah Jon I disagree. Geography is irrelevant as long as we test in similar temperature. Testing ASICs is also reasonable with just two miners (but there aren't any ASICs for PPOW anyway). And Sonia yes agreed, the most common GPU types of course are first on the list! AMD570, AMD580, NV1070, NV1080.. maybe some TIs and Titans and Vega and 20xx series but not sure if their price (capex) is at all competitive right now.
 
-Are you an ENERGIST (innerQIst)? Do you believe in maximizing energy usage and efficiency or are you an outergist, believing in minimizing energy usage and efficiency.
+- Philip Salter, [03.02.19 21:37]
+I'll start working on this and share results here when I get some. If anyone else pitches in then it might be faster
 
 
 {% include footer_meta.md mod_date=page.date %}

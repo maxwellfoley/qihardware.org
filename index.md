@@ -59,27 +59,32 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
 - [x] clone proofofhardware.com distributed
 - [x] create clear introduction text
 - [x] update qi-hardware.com logo
-- [ ] create social
+- [x] create social
   - [x] telegram
   - [x] Instagram
   - [x] Twitter
+  - [x] wechat
 - [ ] pick out a font for the site
-- [ ] add history of project
+- [x] add history of project
+- [ ] add dates of history
 - [ ] figure out what to port from qi-hardware.com
 - [ ] complete document drafts one by one
 - [ ] invite people from qihardware irc with an announcement
-- [ ] invite world to qihardware.org, social push connected to something
+- [x] invite world to qihardware.org, social push connected to something
 - [ ] ideas needing more exploration
   - [ ] eip drafts and documents
   - [ ] energy testing equipment and tools (testnet)
   - [ ] proof of hardware shenzhen summit (march?)
   - [ ] fellowship or grants?
   - [ ] howto generate resources to grow community
-- [ ] Journal (SCALE)
+- [ ] Scale Journal
+  - [x] put old archives online: https://github.com/rejon/scale-2004
   - [ ] Call for volunteers to help with journal: research papers, etc.
   - [ ] How to request/receive research/writeups?
-  - [ ] What is the format? PDF?
+  - [x] What is the format? PDF? Like PDF, super simple.
   - [ ] Determine list of articles/topics for volume 1
+  - [ ] what is the period? MONTHLY or QUARTERLY?
+  - [ ] allow for sponsors? have potentials
 
 ### Events
 
