@@ -20,6 +20,8 @@ date: 2019-01-29 01:00:00 +0000
 - While others do ASIC Resistance and some ASIC Protests, Proof of Contribution is about ASIC Assistance.
 - Hardware scaling and power is unstoppable, as is the capital investments connected to hardware scaling.
 - To go against hardware is to go backwards or into a software seclusion.
+- It is possible to make proof of work do meaningful work
+  - why not work to cure cancer or aids? find aliens? 
 
 
 
