@@ -85,6 +85,8 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
   - [ ] Determine list of articles/topics for volume 1
   - [ ] what is the period? MONTHLY or QUARTERLY?
   - [ ] allow for sponsors? have potentials
+  - [ ] February Submissions STARTING!
+    - https://eprint.iacr.org/2017/203.pdf
 
 ### Events
 
