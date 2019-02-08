@@ -13,6 +13,7 @@ Right there are a couple of facts:
 
 ### Claims
 
+- 13-15% of global hashrate is ASIC (from supply chain, needs evidence)
 - Bitmain E3 mass production
 - Innosilicon A10 was only in testing
 - Linzhi, no chip or machine at present
@@ -34,6 +35,7 @@ Right there are a couple of facts:
 ### Ideas
 
 - Look at block rewards and trace back through to the pools to measure who has real hashpower.
+
 
 
 {% include footer_meta.md mod_date=page.date %}
