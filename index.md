@@ -77,16 +77,16 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
   - [ ] proof of hardware shenzhen summit (march?)
   - [ ] fellowship or grants?
   - [ ] howto generate resources to grow community
-- [ ] Scale Journal
+- [x] Scale Journal
   - [x] put old archives online: https://github.com/rejon/scale-2004
-  - [ ] Call for volunteers to help with journal: research papers, etc.
-  - [ ] How to request/receive research/writeups?
-  - [x] What is the format? PDF? Like PDF, super simple.
-  - [ ] Determine list of articles/topics for volume 1
-  - [ ] what is the period? MONTHLY or QUARTERLY?
-  - [ ] allow for sponsors? have potentials
-  - [ ] February Submissions STARTING!
-    - https://eprint.iacr.org/2017/203.pdf
+  - [x] Call for volunteers to help with journal: research papers, etc. DONE.
+  - [x] How to request/receive research/writeups?
+  - [x] What is the format? PDF? Like PDF, super simple. Links, expanded to PDF.
+  - [x] Determine list of articles/topics for volume 1. The week and who posts links. DONE.
+  - [x] what is the period? MONTHLY or QUARTERLY? WEEKLY
+  - [x] allow for sponsors? have potentials. YES. They vote on the posts, or we can have them as ad/logo spots...
+  - [x] February Submissions STARTING!
+  - [x] setup https://scale.qihardware.org and repo
 
 ### Events
 
