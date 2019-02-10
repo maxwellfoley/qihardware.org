@@ -56,6 +56,8 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
 
 ### TODO
 
+_Add your name if you want to do this, but its free for all_
+
 - [x] clone proofofhardware.com distributed
 - [x] create clear introduction text
 - [x] update qi-hardware.com logo
@@ -87,6 +89,17 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
   - [x] allow for sponsors? have potentials. YES. They vote on the posts, or we can have them as ad/logo spots...
   - [x] February Submissions STARTING!
   - [x] setup https://scale.qihardware.org and repo
+- [x] start Qi VDF team
+
+### Projects
+
+#### Scale journal
+
+- [https://scale.qihardware.org](https://scale.qihardware.org)
+
+#### Qi VDF Team
+
+- [/project/vdf](project/vdf): Join us in Making an Open Chip Design for Ethereum
 
 ### Events
 
