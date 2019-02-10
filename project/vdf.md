@@ -17,7 +17,7 @@ Qi Hardware community has decided to make a team to make a VDF prototype. We jus
 
 ### Social Channels to join
 
-- Follow [https://twitter.com/justinfdrake](https://twitter.com/justinfdrake)
+- Follow [https://twitter.com/drakefjustin](https://twitter.com/drakefjustin)
 - Add new ones?
 
 ### The PLAN is to Attack aka TODOs
